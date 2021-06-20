@@ -173,7 +173,28 @@ To test: <br>
 ```			
 
 
+### Acknowledgements
+```
+3DMMAI (https://gunhosohn.me/3dmmai/  ; https://gunhosohn.me/2020/09/06/3d-mobile-mapping-ai-project/) 
+Lab Introduction https://gunhosohn.me/team/
+Dr. Connie Ko, Dr. Gunho Sohn, Maryam Jameela, Muhammad Kamran, Sunghwoon Yoo
+Our lab will lead the development of deep learning-based 
 
+Object Detection 
+Noise Filtering 
+Terrain Filtering
+Semantic Segmentation 
+Building Footprint Extraction
+LIDAR and visual SLAM development 
+Transmission Network Modeling
+
+Andrew Chadwick
+https://irsslab.forestry.ubc.ca/people/graduate-students/
+
+
+
+
+```
 
 
 
