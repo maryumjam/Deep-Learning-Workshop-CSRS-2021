@@ -1,6 +1,7 @@
 # Deep-Learning-Workshop-CSRS-2021
 URL: https://crss-sct.ca/conferences/csrs-2021/workshops-2021/#three <br>
-Instructors: Dr. Connie Ko, Maryam Jameela, Andrew Chadwick
+Instructors: Dr. Connie Ko, Maryam Jameela, Andrew Chadwick <br>
+Date : June 21, 2021 
 
 <H1> Description </H1>
 Deep learning is one of the fastest growing areas of machine learning and has been successfully applied in many applications including speech recognition, object detection and classification for autonomous navigation. In the remote sensing community, deep learning has been applied to a variety of data types (e.g. spectral, hyperspectral, LiDAR )for the applications of image classification, anomaly detection, terrain surface classification, object detection and many more (Zhu et al., 2017).
@@ -12,12 +13,14 @@ The purpose of this workshop is to introduce deep learning approaches through th
 The first session will provide an overview of deep learning, explaining some of the important theories and terminologies in convolutional neural networks. Following this, we will review Mask R-CCN (He et al., 2017), which will be the focus of this session’s demonstration. This demonstration will provide a walk-through of adapting Mask R-CNN to the task of individual tree crown delineation. The second session will cover a lecture that discuss LiDAR point-cloud processing and especially precoding. We will be reviewing PointNet (Qi et al., 2017) and Point Pillars (Lang et al., 2018) for the purpose of understanding the demonstration of single tree detection in LiDAR point cloud
 <H2> Agenda Workshop </H2>
 <H3>Morning</H3>
+10:00 am to 12:00 pm Mountain Daylight Time (GMT-6)
 Lecture: Deep Learning in 2D <br>
 Presenter: Connie Ko <br>
 Demo: Mask RCNN for individual tree crown delineation <br>
 Presenter: Andrew Chadwick <br>
 
 <H3> Afternoon </H3>
+13:00 pm to 15:00 pm Mountain Daylight Time (GMT-6)
 Lecture: Deep Learning in 3D <br>
 Presenter: Connie Ko<br>
 Demo: PointNet and 3D-Unet<br>
