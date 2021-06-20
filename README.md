@@ -53,6 +53,12 @@ H5py:
      $ pip3 install h5py 
 
 
+<H2>Demo 2D Deep Learning </H2>
+<H3> Mask RCNN for individual tree crown delineation </H3>
+Fork from <a href="https://github.com/charlesq34/pointnet">Original Repository</a> by Authors of MaskRCNN
+
+
+
 <H2>Deep Classification and Semantic Segmentation of 3D Point cloud </H2>
 <H3> PointNet for 3D Point cloud Classification </H3>
 Fork from <a href="https://github.com/charlesq34/pointnet">Original Repository</a> by Authors of Pointnet: Deep Learning on Point Sets for 3d Classification and Segmentation [Qi et al., 2017]
@@ -115,7 +121,53 @@ To test: <br>
     $ python3 test.py
 
 		
-		
+### Citation 
+```
+@article{DBLP:journals/corr/HeGDG17,
+  author    = {Kaiming He and
+               Georgia Gkioxari and
+               Piotr Doll{\'{a}}r and
+               Ross B. Girshick},
+  title     = {Mask {R-CNN}},
+  journal   = {CoRR},
+  volume    = {abs/1703.06870},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1703.06870},
+  archivePrefix = {arXiv},
+  eprint    = {1703.06870},
+  timestamp = {Mon, 13 Aug 2018 16:46:36 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/HeGDG17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@article{qi2016pointnet,
+  title={PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation},
+  author={Qi, Charles R and Su, Hao and Mo, Kaichun and Guibas, Leonidas J},
+  journal={arXiv preprint arXiv:1612.00593},
+  year={2016}
+}
+
+
+@article{DBLP:journals/corr/CicekALBR16,
+  author    = {{\"{O}}zg{\"{u}}n {\c{C}}i{\c{c}}ek and
+               Ahmed Abdulkadir and
+               Soeren S. Lienkamp and
+               Thomas Brox and
+               Olaf Ronneberger},
+  title     = {3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation},
+  journal   = {CoRR},
+  volume    = {abs/1606.06650},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1606.06650},
+  archivePrefix = {arXiv},
+  eprint    = {1606.06650},
+  timestamp = {Mon, 13 Aug 2018 16:47:29 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/CicekALBR16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+```			
 
 
 
