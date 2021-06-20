@@ -176,8 +176,9 @@ To test: <br>
 ### Acknowledgements
 ```
 3DMMAI (https://gunhosohn.me/3dmmai/  ; https://gunhosohn.me/2020/09/06/3d-mobile-mapping-ai-project/) 
-Lab Introduction https://gunhosohn.me/team/
+
 Dr. Connie Ko, Dr. Gunho Sohn, Maryam Jameela, Muhammad Kamran, Sunghwoon Yoo
+https://gunhosohn.me/team/
 Our lab will lead the development of deep learning-based 
 
 Object Detection 
