@@ -178,7 +178,8 @@ To test: <br>
 
 ### Acknowledgements
 ```
-3DMMAI (https://gunhosohn.me/3dmmai/  ; https://gunhosohn.me/2020/09/06/3d-mobile-mapping-ai-project/) 
+3DMMAI (https://gunhosohn.me/3dmmai/) 
+(https://gunhosohn.me/2020/09/06/3d-mobile-mapping-ai-project/) 
 
 Dr. Connie Ko, Dr. Gunho Sohn, Maryam Jameela, Muhammad Kamran, Sunghwoon Yoo
 https://gunhosohn.me/team/
