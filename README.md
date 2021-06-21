@@ -1,6 +1,7 @@
 # Deep-Learning-Workshop-CSRS-2021
 URL: https://crss-sct.ca/conferences/csrs-2021/workshops-2021/#three <br>
-Instructors: Dr. Connie Ko, Maryam Jameela, Andrew Chadwick <br>
+Instructors: Dr. Connie Ko(cko@yorku.ca), Maryam Jameela(maryumja@yorku.ca), Andrew Chadwick(achad26@mail.ubc.ca) <br>
+
 
 
 Date : June 21, 2021 
