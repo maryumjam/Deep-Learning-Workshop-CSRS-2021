@@ -60,7 +60,7 @@ H5py:
 
 <H2>Demo 2D Deep Learning </H2>
 <H3> Mask RCNN for individual tree crown delineation </H3>
-Fork from <a href="https://github.com/charlesq34/pointnet">Original Repository</a> by Authors of MaskRCNN
+Fork from <a href="https://github.com/matterport/Mask_RCNN">Original Repository</a> by Authors of MaskRCNN
 
 
 
